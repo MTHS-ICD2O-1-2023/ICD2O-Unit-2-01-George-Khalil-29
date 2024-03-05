@@ -18,9 +18,9 @@
   color: lightgreen;
 }
 
-.page-content-answer {
-  color: rgb(0 0 0);
-  font-family: Helvetica, Arial, Sans-serif;
+.page-content {
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
 
